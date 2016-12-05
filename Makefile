@@ -1,2 +1,2 @@
 setup:
-	docker build -t localethereum/client-python .
+	sudo docker build -t localethereum/client-python .
